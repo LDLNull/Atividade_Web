@@ -1,0 +1,33 @@
+body {
+    color: darkgrey;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.rec {
+    background-color: rgb(208, 188, 9);
+    height: 100px;
+    width: 1200px;
+    padding: 15px;
+    border: 20px;
+    border-radius: 25px;
+    display: block;
+    margin: auto;
+}
+
+th {
+    text-align: center;
+    color: black;
+}
+td {
+    text-align: center;
+    color: black;
+}
+.Centered {
+    margin-left: auto;
+    margin-right: auto;
+}
